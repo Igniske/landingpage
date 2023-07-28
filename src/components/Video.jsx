@@ -10,9 +10,9 @@ function Video(){
         <div className="lg:w-full w-screen">
             <Text FirstLine={firstLine} SecondLine={secondLine}></Text>
                 <div className="lg:px-96 px-6 ">
-                    <video width="500" height="400" controls >
+                    {/*<video width="500" height="400" controls >
                         <source src="https://www.youtube.com/watch?v=thcEuMDWxoI" type="video/mp4"/>
-                    </video>
+    </video>*/}
                     <div className="text-lg font-thin"> Why YangYin</div>
                 </div>
         </div>
